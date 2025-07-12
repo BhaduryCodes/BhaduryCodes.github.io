@@ -5,8 +5,8 @@
   scroll-behavior: smooth;
 }
 .red {
-  color: #f00;
-  font-weight: 700;
+  color: rgb(213, 171, 171);
+  font-weight: 600;
 }
 .pressStart {
   font-family: "Press Start 2P", system-ui;
@@ -34,7 +34,7 @@
 .title {
   padding: 10px 0;
   margin: 25px 0;
-  background: #333;
+  background: #5f1fe0;
   border-radius: 8px;
   border: 2px solid #111;
   font-size: 1.6em;
