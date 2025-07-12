@@ -51,4 +51,10 @@ footer {
   background: #000;
   text-align: center;
   padding-top: 13px;
+.profile-img {
+  width: 200px;
+  border-radius: 50%; /* makes it a circle */
+  display: block;
+  margin: 20px auto; /* centers the image horizontally */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
