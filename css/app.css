@@ -6,13 +6,13 @@
 }
 body {
   font-size: 1.6em;
-  color: #3e07f4;
+  color: #1dd423;
   background: #444;
 }
 header {
   width: 100%;
   height: 600px;
-  background: #f9f507;
+  background: #f5f265;
   padding: 50px 100px;
 }
 nav {
