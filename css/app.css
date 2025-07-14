@@ -6,13 +6,13 @@
 }
 body {
   font-size: 1.6em;
-  color: #cf8080;
+  color: #3e07f4;
   background: #444;
 }
 header {
   width: 100%;
   height: 600px;
-  background: #589e27;
+  background: #f9f507;
   padding: 50px 100px;
 }
 nav {
@@ -30,7 +30,7 @@ nav {
 #skills {
   width: 100%;
   min-height: 500px;
-  background: #2b8bc7;
+  background: #0698f3;
   padding: 50px 100px;
 }
 #projects {
@@ -42,7 +42,7 @@ nav {
 #contact {
   width: 100%;
   min-height: 500px;
-  background: #993636;
+  background: #e60d0d;
   padding: 50px 100px;
 }
 footer {
